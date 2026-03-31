@@ -64,7 +64,7 @@ Digital Literacy/
 ---
 
 ## 🧾 Task 3: Google Form Quiz Evidence
-* **Google Form Link:** [Open Quiz Form](https://forms.gle/Bu2HESfgeXrQUxvN7)
+* **Google Form Link:** [Open Quiz Form](https://forms.gle/Bu2HESfgeXrQUxvN7)`https://forms.gle/Bu2HESfgeXrQUxvN7`
 * **Task 3 Folder:** [task-3-platforms](./task-3-platforms/)
 * **Linked Google Sheet (Response View):** [google form response.png](./task-3-platforms/google%20form%20response.png)
 
